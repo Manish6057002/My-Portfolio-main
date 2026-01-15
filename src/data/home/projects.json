@@ -1,0 +1,439 @@
+[
+  {
+    "id": "skyhightrip",
+    "title": "SkyHighTrip",
+    "category": "Travel Website",
+    "date": "February 2025",
+    "client": "SkyHighTrip Travel Agency",
+    "website": "https://skyhightrip.com",
+    "description": "A comprehensive travel booking platform built with PHP that integrates with the Amadeus API to provide real-time flight and hotel booking services. The platform offers seamless search, comparison, and booking capabilities for flights and accommodations with live pricing and availability data.",
+    "features": [
+      "Real-time flight search using Amadeus API",
+      "Hotel booking and reservation system",
+      "Live pricing and availability updates",
+      "Multi-city flight options",
+      "Hotel filtering and comparison",
+      "User account and booking management",
+      "Payment gateway integration",
+      "Email confirmations and notifications",
+      "Mobile responsive design",
+      "Admin dashboard for bookings management"
+    ],
+    "technologies": [
+      "PHP",
+      "MySQL",
+      "Amadeus API",
+      "JavaScript",
+      "Bootstrap",
+      "jQuery",
+      "REST API"
+    ],
+    "mainImage": "/assets/imgs/works/skyhightrip.png",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.png",
+      "/assets/imgs/works/project/2.png"
+    ]
+  },
+  {
+    "id": "youngsietar",
+    "title": "YoungSietar",
+    "category": "Business Website",
+    "date": "October 2025",
+    "client": "YoungSietar Corporation",
+    "website": "https://youngsietar.org",
+    "description": "A professional business website showcasing corporate services, team information, and client portfolio. Designed with clean, modern aesthetics to establish strong brand presence.",
+    "features": [
+      "Corporate homepage design",
+      "Service showcase pages",
+      "Team member profiles",
+      "Client testimonials",
+      "Contact forms",
+      "SEO optimization"
+    ],
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "PHP",
+      "MySQL"
+    ],
+    "mainImage": "/assets/imgs/works/youngsietar.png",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.png",
+      "/assets/imgs/works/project/2.png"
+    ]
+  },
+  {
+    "id": "progressive-graphics",
+    "title": "Progressive Graphics Employee Attendance Management System",
+    "category": "Laravel Application",
+    "date": "September 2025",
+    "client": "Progressive Graphics Studio",
+    "website": "https://progressivegraphics.com",
+    "description": "A comprehensive employee attendance management system built with Laravel, featuring clock in/out functionality, employee chat communication, event calendar, task management, and export capabilities. Designed to streamline employee time tracking and improve workplace communication and productivity.",
+    "features": [
+      "Admin dashboard with employee clock in/out management",
+      "Real-time employee attendance tracking",
+      "Employee chat system using Chatify for seamless communication",
+      "Interactive event calendar for company-wide events",
+      "Task assignment system with admin controls",
+      "Export functionality for attendance reports",
+      "Employee management and profiles",
+      "Real-time notifications and alerts",
+      "Mobile-responsive design for on-the-go access",
+      "Role-based access control (Admin/Employee)"
+    ],
+    "technologies": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "Chatify",
+      "JavaScript",
+      "Bootstrap",
+      "FullCalendar",
+      "Chart.js"
+    ],
+    "mainImage": "/assets/imgs/works/progressive-graphics.png",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.png",
+      "/assets/imgs/works/project/2.png"
+    ]
+  },
+  {
+    "id": "xrdigitech",
+    "title": "XRDigitech",
+    "category": "AR/VR & Software Company",
+    "date": "August 2025",
+    "client": "XRDigitech Pvt Ltd",
+    "website": "https://xrdigitech.com",
+    "description": "A WordPress-powered website for an AR/VR and software solutions company showcasing immersive projects, 3D/interactive demos, enterprise software services, and industry use cases. Built to highlight spatial computing capabilities, custom software development, case studies, and lead capture with performant media handling.",
+    "features": [
+      "Portfolio of AR/VR projects with rich media",
+      "Interactive demo/video galleries",
+      "Service pages and industry use cases",
+      "Case studies and client testimonials",
+      "Contact and lead capture forms",
+      "Blog/updates for product news",
+      "SEO and performance optimizations"
+    ],
+    "technologies": [
+      "WordPress",
+      "PHP",
+      "MySQL",
+      "Gutenberg/Elementor",
+      "Advanced Custom Fields",
+      "Yoast SEO",
+      "Caching/CDN"
+    ],
+    "mainImage": "/assets/imgs/works/xrdigitech.png",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.png",
+      "/assets/imgs/works/project/2.png"
+    ]
+  },
+  {
+    "id": "freshearth",
+    "title": "FreshEarth",
+    "category": "E-commerce",
+    "date": "September 2025",
+    "client": "FreshEarth Initiative",
+    "website": "https://freshearthindia.com",
+    "description": "A comprehensive e-commerce platform built on Shopify specializing in premium organic fruits, nuts, and seeds. The website features an intuitive shopping experience with detailed product catalogs, nutritional information, and sustainable packaging options. Designed to promote healthy living through natural, organic products sourced from trusted suppliers.",
+    "features": [
+      "Product catalog with detailed descriptions",
+      "Shopping cart and checkout system",
+      "Customer account management",
+      "Order tracking and history",
+      "Nutritional information display",
+      "Sustainable packaging options",
+      "Subscription service for regular orders",
+      "Customer reviews and ratings",
+      "Mobile-responsive design",
+      "SEO optimization for organic search"
+    ],
+    "technologies": [
+      "Shopify",
+      "Liquid",
+      "JavaScript",
+      "CSS3",
+      "Shopify Apps",
+      "Payment Gateway Integration"
+    ],
+    "mainImage": "/assets/imgs/works/freshearth.png",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.png",
+      "/assets/imgs/works/project/2.png"
+    ]
+  },
+  {
+    "id": "icontravels",
+    "title": "IconTravels",
+    "category": "Travel Website",
+    "date": "March 2025",
+    "client": "IconTravels Ltd",
+    "website": "https://icontravels.com",
+    "description": "A WordPress-based travel agency website showcasing luxury travel experiences, destinations, and services. Built as a contact-focused platform where customers can browse travel packages and contact the agency directly for bookings and personalized vacation planning.",
+    "features": [
+      "Travel destination showcases",
+      "Luxury travel packages display",
+      "Contact forms and inquiry system",
+      "Travel blog and updates",
+      "Customer testimonials",
+      "Service pages and pricing",
+      "Photo galleries and virtual tours",
+      "Mobile responsive design",
+      "SEO optimization for travel keywords",
+      "Email marketing integration"
+    ],
+    "technologies": [
+      "WordPress",
+      "PHP",
+      "MySQL",
+      "Contact Form 7",
+      "Elementor",
+      "Yoast SEO",
+      "Email Marketing"
+    ],
+    "mainImage": "/assets/imgs/works/icontravels.png",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.png",
+      "/assets/imgs/works/project/2.png"
+    ]
+  },
+  {
+    "id": "gurudwarasadhsangat",
+    "title": "Gurudwara Sadh Sangat",
+    "category": "WordPress Website",
+    "date": "June 2025",
+    "client": "Gurudwara Sadh Sangat",
+    "website": "https://gurudwarasadhsangatsv.org",
+    "description": "A comprehensive WordPress website for Gurudwara Sadh Sangat, designed to serve the spiritual community with information about religious services, events, community programs, and spiritual guidance. The website provides an intuitive interface for devotees to access gurudwara information, view schedules, and stay connected with the community.",
+    "features": [
+      "Homepage with spiritual design and welcoming interface",
+      "Event calendar for religious ceremonies and programs",
+      "Information about daily services and timings",
+      "Community news and updates section",
+      "Photo galleries of events and ceremonies",
+      "Contact forms for inquiries and donations",
+      "Mobile responsive design for accessibility",
+      "SEO optimization for local search visibility",
+      "Multi-language support capabilities",
+      "Donation and contribution integration"
+    ],
+    "technologies": [
+      "WordPress",
+      "PHP",
+      "MySQL",
+      "Elementor",
+      "Contact Form 7",
+      "Yoast SEO",
+      "WordPress Plugins"
+    ],
+    "mainImage": "/assets/imgs/works/gurudwarasadhsangat.png",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.png",
+      "/assets/imgs/works/project/2.png"
+    ]
+  },
+  {
+    "id": "abacus-mental-mathematics",
+    "title": "Abacus Mental Mathematics Academy",
+    "category": "WordPress Website",
+    "date": "July 2025",
+    "client": "Abacus Mental Mathematics Academy",
+    "website": "https://ammaindia.com",
+    "description": "A professional WordPress website for Abacus Mental Mathematics Academy, designed to showcase abacus courses, training programs, and educational services. The website provides an engaging platform for parents and students to learn about mental mathematics training, view course details, enroll in programs, and track student progress.",
+    "features": [
+      "Interactive homepage showcasing abacus benefits and courses",
+      "Course catalog with detailed program descriptions",
+      "Online enrollment and registration system",
+      "Student dashboard for tracking progress",
+      "Instructor profiles and qualifications",
+      "Testimonials and success stories from students",
+      "Event calendar for workshops and competitions",
+      "Contact forms for inquiries and consultations",
+      "Blog section for educational tips and updates",
+      "Mobile responsive design for all devices",
+      "SEO optimization for education keywords",
+      "Payment gateway integration for course fees"
+    ],
+    "technologies": [
+      "WordPress",
+      "PHP",
+      "MySQL",
+      "Elementor",
+      "WooCommerce",
+      "LearnDash",
+      "Contact Form 7",
+      "Yoast SEO",
+      "Payment Gateway Integration"
+    ],
+    "mainImage": "/assets/imgs/works/abacus-mental-mathematics.png",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.png",
+      "/assets/imgs/works/project/2.png"
+    ]
+  },
+  {
+    "id": "cashflowsummit",
+    "title": "CashFlow Summit",
+    "category": "Event Website",
+    "date": "October 2025",
+    "client": "CashFlow Summit",
+    "website": "https://cashflowsummit.in",
+    "description": "A modern, dynamic event website built with ReactJS for CashFlow Summit, designed to showcase financial education events, speaker lineups, and registration information. The platform provides an engaging user experience with smooth animations, responsive design, and interactive features to promote financial literacy and business growth events.",
+    "features": [
+      "Interactive event landing page with modern design",
+      "Speaker profiles and session schedules",
+      "Event registration and ticketing system",
+      "Countdown timer for upcoming events",
+      "Responsive design for all devices",
+      "Dynamic content loading with React",
+      "Smooth page transitions and animations",
+      "Event highlights and testimonials",
+      "Contact and inquiry forms",
+      "Social media integration",
+      "SEO optimization for event discovery",
+      "Fast loading with optimized performance"
+    ],
+    "technologies": [
+      "ReactJS",
+      "JavaScript",
+      "CSS3",
+      "HTML5",
+      "React Router",
+      "React Hooks",
+      "Responsive Design"
+    ],
+    "mainImage": "/assets/imgs/works/cashflowsummit.png",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.png",
+      "/assets/imgs/works/project/2.png"
+    ]
+  },
+  {
+    "id": "sfbcookies",
+    "title": "SFB Cookies",
+    "category": "E-commerce",
+    "date": "December 2025",
+    "client": "SFB Cookies",
+    "website": "https://sfbcookies.com",
+    "description": "A full-featured e-commerce platform built with Laravel and Vite for SFB Cookies, specializing in premium handcrafted cookies and baked goods. The platform offers a seamless shopping experience with real-time inventory management, secure payment processing, order tracking, and an intuitive admin dashboard for managing products, orders, and customer relationships.",
+    "features": [
+      "Product catalog with detailed descriptions and images",
+      "Advanced search and filtering system",
+      "Shopping cart with real-time updates",
+      "Secure checkout and payment gateway integration",
+      "User account management and order history",
+      "Order tracking and status updates",
+      "Admin dashboard for product management",
+      "Inventory management system",
+      "Customer reviews and ratings",
+      "Promotional codes and discount system",
+      "Email notifications for orders and updates",
+      "Mobile-responsive design",
+      "Fast page loading with Vite optimization",
+      "SEO-friendly URLs and meta tags"
+    ],
+    "technologies": [
+      "Laravel",
+      "Vite",
+      "PHP",
+      "MySQL",
+      "JavaScript",
+      "CSS3",
+      "Bootstrap",
+      "Payment Gateway Integration",
+      "Laravel Blade",
+      "RESTful API"
+    ],
+    "mainImage": "/assets/imgs/works/sfbcookies.png",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.png",
+      "/assets/imgs/works/project/2.png"
+    ]
+  },
+  {
+    "id": "wealthmatrixgroup",
+    "title": "Wealth Matrix Group",
+    "category": "Tax Advisory",
+    "date": "November 2025",
+    "client": "Wealth Matrix Group",
+    "website": "https://wealthmatrixgroup.com",
+    "description": "A professional tax advisory and financial consulting platform built with Next.js for Wealth Matrix Group, providing comprehensive tax planning, wealth management, and financial advisory services for clients in Canada and USA. The platform features client portals, appointment scheduling, document management, and secure communication channels for personalized tax consultation.",
+    "features": [
+      "Professional landing page with service showcase",
+      "Client portal for document management",
+      "Online appointment scheduling system",
+      "Tax calculator and estimation tools",
+      "Secure client communication platform",
+      "Resource library with tax guides and articles",
+      "Multi-currency support (CAD/USD)",
+      "Contact forms and consultation requests",
+      "Team member profiles and expertise",
+      "Client testimonials and case studies",
+      "Blog section for tax updates and news",
+      "Mobile-responsive design",
+      "SEO optimization for tax-related keywords",
+      "Fast loading with Next.js optimization"
+    ],
+    "technologies": [
+      "Next.js",
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "CSS3",
+      "Tailwind CSS",
+      "Node.js",
+      "API Integration",
+      "Responsive Design"
+    ],
+    "mainImage": "/assets/imgs/works/wealthmatrixgroup.png",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.png",
+      "/assets/imgs/works/project/2.png"
+    ]
+  },
+  {
+    "id": "exceleratetaxadvisory",
+    "title": "Excelerate Tax Advisory",
+    "category": "Tax Advisory",
+    "date": "November 2025",
+    "client": "Excelerate Tax Advisory",
+    "website": "https://exceleratetaxadvisory.com",
+    "description": "A modern Next.js-powered tax advisory website for Excelerate Tax Advisory, specializing in cross-border tax planning and compliance services for individuals and businesses in Canada and USA. The platform provides expert tax consultation, filing services, and financial planning with a focus on maximizing returns and ensuring regulatory compliance.",
+    "features": [
+      "Interactive service pages for tax solutions",
+      "Cross-border tax planning information",
+      "Client onboarding and registration system",
+      "Tax filing status tracking",
+      "Secure document upload and storage",
+      "Consultation booking system",
+      "Tax deadline calendar and reminders",
+      "Financial planning tools and calculators",
+      "Knowledge base with tax FAQs",
+      "Newsletter subscription for tax updates",
+      "Multi-language support capabilities",
+      "Contact and inquiry forms",
+      "Mobile-first responsive design",
+      "Performance optimized with Next.js",
+      "SEO-friendly architecture"
+    ],
+    "technologies": [
+      "Next.js",
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "CSS3",
+      "Tailwind CSS",
+      "Node.js",
+      "RESTful API",
+      "Responsive Design"
+    ],
+    "mainImage": "/assets/imgs/works/exceleratetaxadvisory.png",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.png",
+      "/assets/imgs/works/project/2.png"
+    ]
+  }
+]

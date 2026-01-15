@@ -1,0 +1,81 @@
+[
+  {
+    "photo": "/assets/imgs/works/skyhightrip.png",
+    "title": "SkyHighTrip",
+    "link": "/dark/works/single-project?id=skyhightrip",
+    "category": "Travel Website"
+  },
+  {
+    "photo": "/assets/imgs/works/youngsietar.png",
+    "title": "YoungSietar",
+    "link": "/dark/works/single-project?id=youngsietar",
+    "category": "Business Website"
+  },
+  {
+    "photo": "/assets/imgs/works/performancemarketingcompany.png",
+    "title": "Performance Marketing Company",
+    "link": "/dark/works/single-project?id=performancemarketingcompany",
+    "category": "Performance Marketing Company"
+  },
+  {
+    "photo": "/assets/imgs/works/xrdigitech.png",
+    "title": "XRDigitech",
+    "link": "/dark/works/single-project?id=xrdigitech",
+    "category": "Tech Company"
+  },
+  {
+    "photo": "/assets/imgs/works/freshearth.png",
+    "title": "FreshEarth",
+    "link": "/dark/works/single-project?id=freshearth",
+    "category": "Eco-Friendly"
+  },
+  {
+    "photo": "/assets/imgs/works/icontravels.png",
+    "title": "IconTravels",
+    "link": "/dark/works/single-project?id=icontravels",
+    "category": "Travel Agency"
+  },
+  {
+    "photo": "/assets/imgs/works/progressive-graphics.png",
+    "title": "Progressive Graphics Employee Attendance Management System",
+    "link": "/dark/works/single-project?id=progressive-graphics",
+    "category": "Laravel Application",
+    "description": "Employee Attendance Management System with admin clock in/out features, employee chat using Chatify, event calendar, task assignment functionality, and export capabilities"
+  },
+  {
+    "photo": "/assets/imgs/works/gurudwarasadhsangat.png",
+    "title": "Gurudwara Sadh Sangat",
+    "link": "/dark/works/single-project?id=gurudwarasadhsangat",
+    "category": "WordPress Website"
+  },
+  {
+    "photo": "/assets/imgs/works/abacus.png",
+    "title": "Abacus Mental Mathematics Academy",
+    "link": "/dark/works/single-project?id=abacus-mental-mathematics",
+    "category": "WordPress Website"
+  },
+  {
+    "photo": "/assets/imgs/works/cashflowsummit.png",
+    "title": "CashFlow Summit",
+    "link": "/dark/works/single-project?id=cashflowsummit",
+    "category": "Event Website"
+  },
+  {
+    "photo": "/assets/imgs/works/sfbcookies.png",
+    "title": "SFB Cookies",
+    "link": "/dark/works/single-project?id=sfbcookies",
+    "category": "E-commerce"
+  },
+  {
+    "photo": "/assets/imgs/works/wealthmatrixgroup.png",
+    "title": "Wealth Matrix Group",
+    "link": "/dark/works/single-project?id=wealthmatrixgroup",
+    "category": "Tax Advisory"
+  },
+  {
+    "photo": "/assets/imgs/works/exceleratetaxadvisory.png",
+    "title": "Excelerate Tax Advisory",
+    "link": "/dark/works/single-project?id=exceleratetaxadvisory",
+    "category": "Tax Advisory"
+  }
+]
