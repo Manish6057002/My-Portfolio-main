@@ -1,29 +1,16 @@
 import Script from 'next/script';
 import LoadingScreen from '@/components/Common/loader';
-import generateStylesheetObject from '@/Common/generateStylesheetsObject';
 import Cursor from '@/components/Common/cusor';
 import ProgressScroll from '@/components/Common/ProgressScroll';
-import Lines from '@/components/Common/Lines';
-import ContactUs from '@/components/dark/contact/ContactUs';
-import Info from '@/components/dark/contact/info';
-import Footer from '@/components/dark/home/footer';
-import NavTop from '@/components/dark/home/nav-top';
-import Navbar from '@/components/dark/home/navbar';
-import Portfolio from '@/components/dark/home/portfolio';
-import Profile from '@/components/dark/home/profile';
-import Services from '@/components/dark/home/services';
-import Skills from '@/components/dark/home/skills';
-export const metadata = {
-  title: 'Manish Kashyap | Full Stack Developer',
-  icons: {
-    icon: '/assets/imgs/favicon.ico',
-    shortcut: '/assets/imgs/favicon.ico',
-    other: generateStylesheetObject([
-      '/assets/css/plugins.css',
-      '/assets/css/style.css',
-    ]),
-  },
-};
+import ContactUs from '@/components/contact/ContactUs';
+import Info from '@/components/contact/info';
+import Footer from '@/components/home/footer';
+import NavTop from '@/components/home/nav-top';
+import Navbar from '@/components/home/navbar';
+import Portfolio from '@/components/home/portfolio';
+import Profile from '@/components/home/profile';
+import Services from '@/components/home/services';
+import Skills from '@/components/home/skills';
 export default function Home() {
   return (
     <div>

@@ -1,81 +1,99 @@
 [
   {
-    "photo": "/assets/imgs/works/skyhightrip.png",
+    "photo": "/assets/imgs/works/clothekraft.avif",
+    "title": "ClotheKraft",
+    "link": "/works/single-project?id=clothekraft",
+    "category": "E-commerce"
+  },
+  {
+    "photo": "/assets/imgs/works/fragdiction.avif",
+    "title": "Fragdiction",
+    "link": "/works/single-project?id=fragdiction",
+    "category": "E-commerce"
+  },
+  {
+    "photo": "/assets/imgs/works/ultra-sonic.avif",
+    "title": "UltraSonic",
+    "link": "/works/single-project?id=ultrasonic",
+    "category": "E-commerce"
+  },
+  {
+    "photo": "/assets/imgs/works/skyhightrip.avif",
     "title": "SkyHighTrip",
-    "link": "/dark/works/single-project?id=skyhightrip",
+    "link": "/works/single-project?id=skyhightrip",
     "category": "Travel Website"
   },
   {
-    "photo": "/assets/imgs/works/youngsietar.png",
+    "photo": "/assets/imgs/works/youngsietar.avif",
     "title": "YoungSietar",
-    "link": "/dark/works/single-project?id=youngsietar",
+    "link": "/works/single-project?id=youngsietar",
     "category": "Business Website"
   },
   {
-    "photo": "/assets/imgs/works/performancemarketingcompany.png",
+    "photo": "/assets/imgs/works/performancemarketingcompany.avif",
     "title": "Performance Marketing Company",
-    "link": "/dark/works/single-project?id=performancemarketingcompany",
+    "link": "/works/single-project?id=performancemarketingcompany",
     "category": "Performance Marketing Company"
   },
   {
-    "photo": "/assets/imgs/works/xrdigitech.png",
+    "photo": "/assets/imgs/works/xrdigitech.avif",
     "title": "XRDigitech",
-    "link": "/dark/works/single-project?id=xrdigitech",
+    "link": "/works/single-project?id=xrdigitech",
     "category": "Tech Company"
   },
   {
-    "photo": "/assets/imgs/works/freshearth.png",
+    "photo": "/assets/imgs/works/freshearth.avif",
     "title": "FreshEarth",
-    "link": "/dark/works/single-project?id=freshearth",
+    "link": "/works/single-project?id=freshearth",
     "category": "Eco-Friendly"
   },
   {
-    "photo": "/assets/imgs/works/icontravels.png",
+    "photo": "/assets/imgs/works/icontravels.avif",
     "title": "IconTravels",
-    "link": "/dark/works/single-project?id=icontravels",
+    "link": "/works/single-project?id=icontravels",
     "category": "Travel Agency"
   },
   {
-    "photo": "/assets/imgs/works/progressive-graphics.png",
+    "photo": "/assets/imgs/works/progressive-graphics.avif",
     "title": "Progressive Graphics Employee Attendance Management System",
-    "link": "/dark/works/single-project?id=progressive-graphics",
+    "link": "/works/single-project?id=progressive-graphics",
     "category": "Laravel Application",
     "description": "Employee Attendance Management System with admin clock in/out features, employee chat using Chatify, event calendar, task assignment functionality, and export capabilities"
   },
   {
-    "photo": "/assets/imgs/works/gurudwarasadhsangat.png",
+    "photo": "/assets/imgs/works/gurudwarasadhsangat.avif",
     "title": "Gurudwara Sadh Sangat",
-    "link": "/dark/works/single-project?id=gurudwarasadhsangat",
+    "link": "/works/single-project?id=gurudwarasadhsangat",
     "category": "WordPress Website"
   },
   {
-    "photo": "/assets/imgs/works/abacus.png",
+    "photo": "/assets/imgs/works/abacus.avif",
     "title": "Abacus Mental Mathematics Academy",
-    "link": "/dark/works/single-project?id=abacus-mental-mathematics",
+    "link": "/works/single-project?id=abacus-mental-mathematics",
     "category": "WordPress Website"
   },
   {
-    "photo": "/assets/imgs/works/cashflowsummit.png",
+    "photo": "/assets/imgs/works/cashflowsummit.avif",
     "title": "CashFlow Summit",
-    "link": "/dark/works/single-project?id=cashflowsummit",
+    "link": "/works/single-project?id=cashflowsummit",
     "category": "Event Website"
   },
   {
-    "photo": "/assets/imgs/works/sfbcookies.png",
+    "photo": "/assets/imgs/works/sfbcookies.avif",
     "title": "SFB Cookies",
-    "link": "/dark/works/single-project?id=sfbcookies",
+    "link": "/works/single-project?id=sfbcookies",
     "category": "E-commerce"
   },
   {
-    "photo": "/assets/imgs/works/wealthmatrixgroup.png",
+    "photo": "/assets/imgs/works/wealthmatrixgroup.avif",
     "title": "Wealth Matrix Group",
-    "link": "/dark/works/single-project?id=wealthmatrixgroup",
+    "link": "/works/single-project?id=wealthmatrixgroup",
     "category": "Tax Advisory"
   },
   {
-    "photo": "/assets/imgs/works/exceleratetaxadvisory.png",
+    "photo": "/assets/imgs/works/exceleratetaxadvisory.avif",
     "title": "Excelerate Tax Advisory",
-    "link": "/dark/works/single-project?id=exceleratetaxadvisory",
+    "link": "/works/single-project?id=exceleratetaxadvisory",
     "category": "Tax Advisory"
   }
 ]

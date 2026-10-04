@@ -1,0 +1,46 @@
+import ProgressScroll from '@/components/Common/ProgressScroll';
+import Cursor from '@/components/Common/cusor';
+import LoadingScreen from '@/components/Common/loader';
+import Footer from '@/components/blogs/footer';
+import Nav from '@/components/blogs/nav';
+import ContactUs from '@/components/contact/ContactUs';
+import ProjectView from '@/components/works/single-project.jsx/project-view';
+import Script from 'next/script';
+import React, { Suspense } from 'react';
+
+export const metadata = {
+  title: 'Manish Kashyap | Full Stack Developer - Project Details',
+};
+
+function SingleProject() {
+  return (
+    <div>
+      <Cursor />
+      <ContactUs />
+      <LoadingScreen />
+      <ProgressScroll />
+      <Nav />
+
+      <main className="container">
+        <Suspense fallback={<div>Loading project...</div>}>
+          <ProjectView />
+        </Suspense>
+      </main>
+      <Footer />
+      <Script
+        src="/assets/js/jquery-3.6.0.min.js"
+        strategy="beforeInteractive"
+      />
+      <Script
+        src="/assets/js/jquery-migrate-3.4.0.min.js"
+        strategy="beforeInteractive"
+      />
+
+      <Script src="/assets/js/plugins.js" strategy="beforeInteractive" />
+      <Script src="/assets/js/scripts.js" strategy="beforeInteractive" />
+      <Script src="/assets/js/three.min.js" strategy="lazyOnload" />
+    </div>
+  );
+}
+
+export default SingleProject;

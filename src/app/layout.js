@@ -1,5 +1,18 @@
 import './globals.css';
 import Lines from '@/components/Common/Lines';
+import generateStylesheetObject from '@/Common/generateStylesheetsObject';
+
+export const metadata = {
+  title: 'Manish Kashyap | Full Stack Developer',
+  icons: {
+    icon: '/assets/imgs/favicon.ico',
+    shortcut: '/assets/imgs/favicon.ico',
+    other: generateStylesheetObject([
+      '/assets/css/plugins.css',
+      '/assets/css/style.css',
+    ]),
+  },
+};
 
 export default function RootLayout({ children }) {
   return (

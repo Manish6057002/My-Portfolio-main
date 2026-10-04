@@ -1,16 +1,16 @@
 [
   {
-    "photo": "/assets/imgs/awards/1.png",
+    "photo": "/assets/imgs/awards/1.avif",
     "title": "Nominee",
     "year": "2019"
   },
   {
-    "photo": "/assets/imgs/awards/2.png",
+    "photo": "/assets/imgs/awards/2.avif",
     "title": "Winner",
     "year": "2020"
   },
   {
-    "photo": "/assets/imgs/awards/2.png",
+    "photo": "/assets/imgs/awards/2.avif",
     "title": "Ruuners Up",
     "year": "2021"
   }

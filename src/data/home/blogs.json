@@ -1,32 +1,32 @@
 [
   {
-    "photo": "/assets/imgs/blog/1.jpg",
+    "photo": "/assets/imgs/blog/1.avif",
     "title": "12 unique examples of portfolio websites.",
-    "link": "/dark/blogs/single-blog"
+    "link": "/blogs/single-blog"
   },
   {
-    "photo": "/assets/imgs/blog/2.jpg",
+    "photo": "/assets/imgs/blog/2.avif",
     "title": "Dealing with spring allergy symptoms.",
-    "link": "/dark/blogs/single-blog"
+    "link": "/blogs/single-blog"
   },
   {
-    "photo": "/assets/imgs/blog/3.jpg",
+    "photo": "/assets/imgs/blog/3.avif",
     "title": "Best wireframe tools for web designers.",
-    "link": "/dark/blogs/single-blog"
+    "link": "/blogs/single-blog"
   },
   {
-    "photo": "/assets/imgs/blog/1.jpg",
+    "photo": "/assets/imgs/blog/1.avif",
     "title": "12 unique examples of portfolio websites.",
-    "link": "/dark/blogs/single-blog"
+    "link": "/blogs/single-blog"
   },
   {
-    "photo": "/assets/imgs/blog/2.jpg",
+    "photo": "/assets/imgs/blog/2.avif",
     "title": "Dealing with spring allergy symptoms.",
-    "link": "/dark/blogs/single-blog"
+    "link": "/blogs/single-blog"
   },
   {
-    "photo": "/assets/imgs/blog/3.jpg",
+    "photo": "/assets/imgs/blog/3.avif",
     "title": "Best wireframe tools for web designers.",
-    "link": "/dark/blogs/a"
+    "link": "/blogs/a"
   }
 ]

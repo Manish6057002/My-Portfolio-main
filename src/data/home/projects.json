@@ -1,5 +1,119 @@
 [
   {
+    "id": "clothekraft",
+    "title": "ClotheKraft",
+    "category": "E-commerce",
+    "date": "2026",
+    "client": "ClotheKraft (A Unit of Magically Creative Innovation)",
+    "website": "https://clothekraft.com",
+    "description": "A full-featured fashion e-commerce store built with Laravel for ClotheKraft, a New Delhi based clothing brand known for premium T-shirts, jeans and co-ord sets. The platform offers a smooth shopping experience with category-based browsing, product variants by size and colour, wishlist and cart, secure checkout, and an admin panel for managing products, orders and promotions.",
+    "features": [
+      "Shop by category (Regular Fit, Oversized, Polo T-Shirts, Jeans, Co-ord Sets)",
+      "Separate Men and Women collections",
+      "Product variants with size and colour selection",
+      "Size chart and measuring guide",
+      "Quick add to cart and wishlist",
+      "Product search",
+      "Customer accounts with order history and saved addresses",
+      "Order tracking",
+      "Coupon codes and sale pricing",
+      "Back-in-stock email notifications",
+      "Customer reviews and testimonials",
+      "Newsletter subscription",
+      "Admin dashboard for products, orders and inventory",
+      "Mobile-responsive design"
+    ],
+    "technologies": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "Laravel Blade",
+      "JavaScript",
+      "Bootstrap",
+      "Swiper",
+      "Payment Gateway Integration"
+    ],
+    "mainImage": "/assets/imgs/works/clothekraft.avif",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
+    ]
+  },
+  {
+    "id": "fragdiction",
+    "title": "Fragdiction",
+    "category": "E-commerce",
+    "date": "2026",
+    "client": "Fragdiction",
+    "website": "https://fragdiction.com",
+    "description": "A luxury perfume e-commerce store built with Next.js for Fragdiction, selling authentic niche, designer and Middle Eastern fragrances. The platform features brand and fragrance house browsing, bestseller collections, partially used (decant level) listings, a perfume request service for hard-to-find scents, and a journal section, all optimised for speed and SEO.",
+    "features": [
+      "Browse by fragrance house type (Niche, Designer, Middle Eastern)",
+      "Brand showcase for houses like Amouage, Tom Ford, Acqua di Parma and Al Haramain",
+      "Most Loved and Bestseller product collections",
+      "Pre-owned bottle listings with fill level details",
+      "Perfume request form for sourcing unavailable fragrances",
+      "Product search and filtering",
+      "Shopping cart and secure checkout",
+      "Journal / blog with fragrance guides",
+      "FAQ on authenticity, shipping and returns",
+      "SEO-friendly server-rendered pages",
+      "Mobile-first responsive design"
+    ],
+    "technologies": [
+      "Next.js",
+      "React",
+      "JavaScript",
+      "Tailwind CSS",
+      "Node.js",
+      "REST API",
+      "Payment Gateway Integration",
+      "Responsive Design"
+    ],
+    "mainImage": "/assets/imgs/works/fragdiction.avif",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
+    ]
+  },
+  {
+    "id": "ultrasonic",
+    "title": "UltraSonic",
+    "category": "E-commerce",
+    "date": "2026",
+    "client": "UltraSonic Ltd",
+    "website": "https://ultrasonic-ltd.com",
+    "description": "A hearing aid e-commerce store built with Laravel for UltraSonic, selling Olive Air hearing aids, Bluetooth hearing aids and advanced hearing aid devices. The platform combines a clean, dark storefront with product search, wishlist and cart, multi-country support, customer accounts, and a blog and FAQ section to help customers choose the right hearing solution.",
+    "features": [
+      "Product catalog for hearing aids and accessories",
+      "Hero slider highlighting featured products like Olive Air",
+      "Product search with instant results",
+      "Wishlist and shopping cart",
+      "Multi-country / region selector",
+      "Customer accounts with order history",
+      "Secure checkout and payment gateway integration",
+      "Blog with hearing health articles",
+      "FAQs and contact pages",
+      "Admin panel for products, orders and content",
+      "SEO-friendly pages",
+      "Mobile-responsive design"
+    ],
+    "technologies": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "Laravel Blade",
+      "JavaScript",
+      "Bootstrap",
+      "Payment Gateway Integration"
+    ],
+    "mainImage": "/assets/imgs/works/ultra-sonic.avif",
+    "galleryImages": [
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
+    ]
+  },
+  {
     "id": "skyhightrip",
     "title": "SkyHighTrip",
     "category": "Travel Website",
@@ -28,10 +142,10 @@
       "jQuery",
       "REST API"
     ],
-    "mainImage": "/assets/imgs/works/skyhightrip.png",
+    "mainImage": "/assets/imgs/works/skyhightrip.avif",
     "galleryImages": [
-      "/assets/imgs/works/project/1.png",
-      "/assets/imgs/works/project/2.png"
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
     ]
   },
   {
@@ -57,10 +171,10 @@
       "PHP",
       "MySQL"
     ],
-    "mainImage": "/assets/imgs/works/youngsietar.png",
+    "mainImage": "/assets/imgs/works/youngsietar.avif",
     "galleryImages": [
-      "/assets/imgs/works/project/1.png",
-      "/assets/imgs/works/project/2.png"
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
     ]
   },
   {
@@ -93,10 +207,10 @@
       "FullCalendar",
       "Chart.js"
     ],
-    "mainImage": "/assets/imgs/works/progressive-graphics.png",
+    "mainImage": "/assets/imgs/works/progressive-graphics.avif",
     "galleryImages": [
-      "/assets/imgs/works/project/1.png",
-      "/assets/imgs/works/project/2.png"
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
     ]
   },
   {
@@ -125,10 +239,10 @@
       "Yoast SEO",
       "Caching/CDN"
     ],
-    "mainImage": "/assets/imgs/works/xrdigitech.png",
+    "mainImage": "/assets/imgs/works/xrdigitech.avif",
     "galleryImages": [
-      "/assets/imgs/works/project/1.png",
-      "/assets/imgs/works/project/2.png"
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
     ]
   },
   {
@@ -159,10 +273,10 @@
       "Shopify Apps",
       "Payment Gateway Integration"
     ],
-    "mainImage": "/assets/imgs/works/freshearth.png",
+    "mainImage": "/assets/imgs/works/freshearth.avif",
     "galleryImages": [
-      "/assets/imgs/works/project/1.png",
-      "/assets/imgs/works/project/2.png"
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
     ]
   },
   {
@@ -194,10 +308,10 @@
       "Yoast SEO",
       "Email Marketing"
     ],
-    "mainImage": "/assets/imgs/works/icontravels.png",
+    "mainImage": "/assets/imgs/works/icontravels.avif",
     "galleryImages": [
-      "/assets/imgs/works/project/1.png",
-      "/assets/imgs/works/project/2.png"
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
     ]
   },
   {
@@ -229,10 +343,10 @@
       "Yoast SEO",
       "WordPress Plugins"
     ],
-    "mainImage": "/assets/imgs/works/gurudwarasadhsangat.png",
+    "mainImage": "/assets/imgs/works/gurudwarasadhsangat.avif",
     "galleryImages": [
-      "/assets/imgs/works/project/1.png",
-      "/assets/imgs/works/project/2.png"
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
     ]
   },
   {
@@ -268,10 +382,10 @@
       "Yoast SEO",
       "Payment Gateway Integration"
     ],
-    "mainImage": "/assets/imgs/works/abacus-mental-mathematics.png",
+    "mainImage": "/assets/imgs/works/abacus-mental-mathematics.avif",
     "galleryImages": [
-      "/assets/imgs/works/project/1.png",
-      "/assets/imgs/works/project/2.png"
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
     ]
   },
   {
@@ -305,10 +419,10 @@
       "React Hooks",
       "Responsive Design"
     ],
-    "mainImage": "/assets/imgs/works/cashflowsummit.png",
+    "mainImage": "/assets/imgs/works/cashflowsummit.avif",
     "galleryImages": [
-      "/assets/imgs/works/project/1.png",
-      "/assets/imgs/works/project/2.png"
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
     ]
   },
   {
@@ -347,10 +461,10 @@
       "Laravel Blade",
       "RESTful API"
     ],
-    "mainImage": "/assets/imgs/works/sfbcookies.png",
+    "mainImage": "/assets/imgs/works/sfbcookies.avif",
     "galleryImages": [
-      "/assets/imgs/works/project/1.png",
-      "/assets/imgs/works/project/2.png"
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
     ]
   },
   {
@@ -388,10 +502,10 @@
       "API Integration",
       "Responsive Design"
     ],
-    "mainImage": "/assets/imgs/works/wealthmatrixgroup.png",
+    "mainImage": "/assets/imgs/works/wealthmatrixgroup.avif",
     "galleryImages": [
-      "/assets/imgs/works/project/1.png",
-      "/assets/imgs/works/project/2.png"
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
     ]
   },
   {
@@ -430,10 +544,10 @@
       "RESTful API",
       "Responsive Design"
     ],
-    "mainImage": "/assets/imgs/works/exceleratetaxadvisory.png",
+    "mainImage": "/assets/imgs/works/exceleratetaxadvisory.avif",
     "galleryImages": [
-      "/assets/imgs/works/project/1.png",
-      "/assets/imgs/works/project/2.png"
+      "/assets/imgs/works/project/1.avif",
+      "/assets/imgs/works/project/2.avif"
     ]
   }
 ]
