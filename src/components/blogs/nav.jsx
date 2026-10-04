@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-html-link-for-pages -- full page loads are needed so the jQuery scripts re-initialise on the home page */
 import React from 'react';
 
 function Nav() {
